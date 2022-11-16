@@ -67,9 +67,6 @@ a {
     margin-right: auto;
 }
 
-/** Home page thumbnails **/
-
-
 .recipe-thumbnail p {
     font-size: 16px;
     text-align: center;
@@ -81,23 +78,8 @@ a {
     object-fit: cover;
     height: 140px;
     width: 420px;
+    border-radius: 15px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 15px;
 }
-
-/**
-
-.recipe-thumbnail {
-    display: inline;
-    position: relative;
-    text-align: center;
-}
-
-.recipe-thumbnail a {
-    position: relative;
-    width: 30%;
-}
-
-**/

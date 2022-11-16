@@ -1,3 +1,3 @@
 # recipes-website
 
-A simple HTML website for recipes.
+A simple website for recipes to explore HTML and CSS.
